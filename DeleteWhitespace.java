@@ -21,7 +21,9 @@ public class DeleteWhitespace  {
         // в виде объекта класса InputStreamReader, в который
         // передаётся текущий поток ввода (System.in).
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-        return reader.readLine();
+        String userText = reader.readLine();
+        reader.close();
+        return userText;
     }
 
     public static String deleteWhitespace(String userText) {
