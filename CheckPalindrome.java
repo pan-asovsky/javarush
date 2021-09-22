@@ -2,7 +2,7 @@ package javarush;
 import java.io.IOException;
 
 /*
-Проверка на палиндром
+Проверка на палиндром.
 */
 
 public class CheckPalindrome {
