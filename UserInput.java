@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Scanner;
 
 /*
-Методы для чтения ввода пользователя.
+Методы для чтения ввода.
 */
 
 public class UserInput {
