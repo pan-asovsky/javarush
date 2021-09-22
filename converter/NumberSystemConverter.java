@@ -48,6 +48,7 @@ public class NumberSystemConverter {
 									"0 - Выход.\n");
 				int userChoiceToContinue = sc.nextInt();
 				if (userChoiceToContinue == 0) {
+					System.out.println("Завершение работы.");
 					sc.close();
 					break;
 				} else if (userChoiceToContinue == 1) {
@@ -66,6 +67,7 @@ public class NumberSystemConverter {
 						"0 - Выход.\n");
 				int userChoiceToContinue = sc.nextInt();
 				if (userChoiceToContinue == 0) {
+					System.out.println("Завершение работы.");
 					sc.close();
 					break;
 				} else if (userChoiceToContinue == 1) {
@@ -84,6 +86,7 @@ public class NumberSystemConverter {
 						"0 - Выход.\n");
 				int userChoiceToContinue = sc.nextInt();
 				if (userChoiceToContinue == 0) {
+					System.out.println("Завершение работы.");
 					sc.close();
 					break;
 				} else if (userChoiceToContinue == 1) {
@@ -102,6 +105,7 @@ public class NumberSystemConverter {
 						"0 - Выход.\n");
 				int userChoiceToContinue = sc.nextInt();
 				if (userChoiceToContinue == 0) {
+					System.out.println("Завершение работы.");
 					sc.close();
 					break;
 				} else if (userChoiceToContinue == 1) {
@@ -120,6 +124,7 @@ public class NumberSystemConverter {
 						"0 - Выход.\n");
 				int userChoiceToContinue = sc.nextInt();
 				if (userChoiceToContinue == 0) {
+					System.out.println("Завершение работы.");
 					sc.close();
 					break;
 				} else if (userChoiceToContinue == 1) {
@@ -138,6 +143,7 @@ public class NumberSystemConverter {
 						"0 - Выход.\n");
 				int userChoiceToContinue = sc.nextInt();
 				if (userChoiceToContinue == 0) {
+					System.out.println("Завершение работы.");
 					sc.close();
 					break;
 				} else if (userChoiceToContinue == 1) {
@@ -156,6 +162,7 @@ public class NumberSystemConverter {
 						"0 - Выход.\n");
 				int userChoiceToContinue = sc.nextInt();
 				if (userChoiceToContinue == 0) {
+					System.out.println("Завершение работы.");
 					sc.close();
 					break;
 				} else if (userChoiceToContinue == 1) {
@@ -174,6 +181,7 @@ public class NumberSystemConverter {
 						"0 - Выход.\n");
 				int userChoiceToContinue = sc.nextInt();
 				if (userChoiceToContinue == 0) {
+					System.out.println("Завершение работы.");
 					sc.close();
 					break;
 				} else if (userChoiceToContinue == 1) {
@@ -192,6 +200,7 @@ public class NumberSystemConverter {
 						"0 - Выход.\n");
 				int userChoiceToContinue = sc.nextInt();
 				if (userChoiceToContinue == 0) {
+					System.out.println("Завершение работы.");
 					sc.close();
 					break;
 				} else if (userChoiceToContinue == 1) {
@@ -210,6 +219,7 @@ public class NumberSystemConverter {
 						"0 - Выход.\n");
 				int userChoiceToContinue = sc.nextInt();
 				if (userChoiceToContinue == 0) {
+					System.out.println("Завершение работы.");
 					sc.close();
 					break;
 				} else if (userChoiceToContinue == 1) {
@@ -227,6 +237,7 @@ public class NumberSystemConverter {
 						"0 - Выход.\n");
 				int userChoiceToContinue = sc.nextInt();
 				if (userChoiceToContinue == 0) {
+					System.out.println("Завершение работы.");
 					sc.close();
 					break;
 				} else if (userChoiceToContinue == 1) {
@@ -244,6 +255,7 @@ public class NumberSystemConverter {
 						"0 - Выход.\n");
 				int userChoiceToContinue = sc.nextInt();
 				if (userChoiceToContinue == 0) {
+					System.out.println("Завершение работы.");
 					sc.close();
 					break;
 				} else if (userChoiceToContinue == 1) {
