@@ -22,7 +22,7 @@ public class ReplacePath {
         int secondIndex = path.indexOf("/", firstIndex);
         String oldJdk = path.substring(firstIndex, secondIndex);
 
-        // Возврат значения с заменой.
+        // Возврат значения с проведением замены.
         return path.replace(oldJdk, jdk);
     }
 }
