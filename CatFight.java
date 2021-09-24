@@ -21,7 +21,7 @@ public class CatFight {
     public static class Cat {
 
         // Поля класса.
-        private final String name;
+        private String name;
         private int age;
         private int weight;
         private int strength;
