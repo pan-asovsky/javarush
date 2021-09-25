@@ -1,1 +1,1 @@
-Путь к Java  Developer.
+Путь к Java Senior Developer.
