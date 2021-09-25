@@ -1,1 +1,1 @@
-Путь к Java Junior Developer.
+Путь к Java  Developer.
