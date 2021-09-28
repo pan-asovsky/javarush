@@ -4,10 +4,6 @@ import org.jetbrains.annotations.NotNull; //optional
 import java.util.ArrayList;
 import java.util.Arrays;
 
-/*
-Наибольшее число в ArrayList.
- */
-
 public class ArrayListSorter {
 
     public int findLargestNum(@NotNull ArrayList<Integer> integers) {
