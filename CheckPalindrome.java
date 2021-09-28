@@ -1,4 +1,6 @@
 package javarush;
+import javarush.util.UserInput;
+
 import java.io.IOException;
 
 /*

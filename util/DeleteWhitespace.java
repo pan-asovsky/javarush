@@ -1,4 +1,4 @@
-package javarush;
+package javarush.util;
 
 /*
 Удаление пробелов.
