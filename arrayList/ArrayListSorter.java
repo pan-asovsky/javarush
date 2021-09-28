@@ -43,4 +43,21 @@ public class ArrayListSorter {
             }
         } return shortestString;
     }
+
+    public String findLargestString(ArrayList<String> array) {
+
+        int maxStringSize = 0;
+        for (String string : array) {
+            if (string.length() > maxStringSize) {
+                maxStringSize = string.length();
+            }
+        }
+
+        String largestString = "";
+        for (String string : array) {
+            if (string.length() == maxStringSize) {
+                largestString = string;
+            }
+        } return largestString;
+    }
 }
