@@ -4,6 +4,9 @@ import org.jetbrains.annotations.NotNull; //optional
 import java.util.ArrayList;
 import java.util.Arrays;
 
+/*
+Поиск наибольших и наименьших значений в ArrayList.
+ */
 
 public class ArrayListSorter {
 
