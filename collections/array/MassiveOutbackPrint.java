@@ -1,4 +1,4 @@
-package javarush.array;
+package javarush.collections.array;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

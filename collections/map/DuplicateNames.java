@@ -1,4 +1,4 @@
-package javarush.map;
+package javarush.collections.map;
 
 import java.util.HashMap;
 import java.util.Map;

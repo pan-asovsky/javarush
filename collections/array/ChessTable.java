@@ -1,4 +1,4 @@
-package javarush.array;
+package javarush.collections.array;
 
 import java.util.Scanner;
 
@@ -29,9 +29,9 @@ public class ChessTable {
         }
 
         // Вывод двумерного массива в консоль двумерной таблицей.
-        for (int i = 0; i < chessTable.length; i++) {
+        for (char[] chars : chessTable) {
             for (int j = 0; j < chessTable[0].length; j++) {
-                System.out.print(chessTable[i][j] + " ");
+                System.out.print(chars[j] + " ");
             }
             System.out.println();
         }

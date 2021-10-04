@@ -1,4 +1,4 @@
-package javarush.array;
+package javarush.collections.array;
 import java.util.Scanner;
 
 /*
@@ -24,9 +24,9 @@ public class StepwiseMassive {
         }
 
         // Вывод в консоль мномерного массива.
-        for (int i = 0; i < multiArray.length; i++) {
-            for (int j = 0; j < multiArray[i].length; j++) {
-                System.out.print(multiArray[i][j] + " ");
+        for (int[] ints : multiArray) {
+            for (int anInt : ints) {
+                System.out.print(anInt + " ");
             }
             System.out.println();
         }

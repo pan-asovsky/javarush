@@ -1,4 +1,4 @@
-package javarush.array;
+package javarush.collections.array;
 
 /*
 Сортировка по возрастанию.

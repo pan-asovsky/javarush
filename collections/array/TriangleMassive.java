@@ -1,4 +1,4 @@
-package javarush.array;
+package javarush.collections.array;
 
 /*
 Треугольный массив
@@ -26,10 +26,11 @@ public class TriangleMassive {
         }
 
         // Вывод в консоль ступенчатого массива.
-        for (int l = 0; l < result.length; l++) {
-            for (int m = 0; m < result[l].length; m++) {
-                System.out.print(result[l][m] + " ");
-            } System.out.println();
+        for (int[] ints : result) {
+            for (int anInt : ints) {
+                System.out.print(anInt + " ");
+            }
+            System.out.println();
         }
     }
 }

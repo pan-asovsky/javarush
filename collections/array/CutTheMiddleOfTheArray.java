@@ -1,4 +1,4 @@
-package javarush.array;
+package javarush.collections.array;
 
 /*
 Вырезаем середину
@@ -28,9 +28,9 @@ public class CutTheMiddleOfTheArray {
 
     // метод для печати двумерного массива в виде таблицы
         public static void printArray() {
-            for (int i = 0; i < chars.length; i++) {
-                for (int j = 0; j < chars[i].length; j++) {
-                    System.out.print(chars[i][j] + " ");
+            for (char[] aChar : chars) {
+                for (char c : aChar) {
+                    System.out.print(c + " ");
                 }
                 System.out.println();
             }

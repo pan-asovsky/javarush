@@ -1,4 +1,4 @@
-package javarush.arrayList;
+package javarush.collections.arrayList;
 
 import org.jetbrains.annotations.NotNull; //optional
 import java.util.ArrayList;
