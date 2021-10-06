@@ -2,9 +2,6 @@ package javarush.collections.array;
 
 import javarush.util.UserInput;
 
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
-
 /*
 Гласные и согласные буквы
 */
