@@ -33,7 +33,6 @@ package javarush.collections.arrayList;
             anyNumbers.add(3);
             anyNumbers.add(18);
             anyNumbers.add(401);
-
         ________________________________________________________________________________
 
         * E get(int index): возвращает объект из списка по индексу index.
