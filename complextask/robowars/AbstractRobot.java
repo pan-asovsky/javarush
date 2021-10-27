@@ -1,4 +1,4 @@
-package javarush.robowars;
+package javarush.complextask.robowars;
 
 public abstract class AbstractRobot implements Defensable, Attackable {
 

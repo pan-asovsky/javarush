@@ -1,4 +1,4 @@
-package javarush.chickenfactory;
+package javarush.complextask.chickenfactory;
 
 abstract class Hen {
 

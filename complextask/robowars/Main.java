@@ -1,4 +1,4 @@
-package javarush.robowars;
+package javarush.complextask.robowars;
 
 import javarush.util.UserInput;
 

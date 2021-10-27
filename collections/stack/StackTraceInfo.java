@@ -3,7 +3,7 @@ import java.util.Arrays;
 
 public class StackTraceInfo {
 
-/*
+/**
     Рассматриваем работу методов класса StackTrace.
 
 
@@ -52,8 +52,7 @@ public class StackTraceInfo {
     // Получение stack trace метода через явное создание экземпляра класса.
     public static StackTraceElement[] method1() {
         System.out.println("method2 : " + Arrays.toString(method2()));
-        StackTraceElement[] stack = Thread.currentThread().getStackTrace();
-        return stack;
+        return Thread.currentThread().getStackTrace();
     }
 
     // Получение stack trace неявным созданием экземпляра через возврат.

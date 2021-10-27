@@ -3,7 +3,7 @@ package javarush.exceptions;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-/*
+/**
 
     Рассматриваем работу с исключениями и принцип их работы.
 
@@ -109,7 +109,6 @@ import java.util.HashMap;
 
 
  */
-
 
 
 // Работа с исключениями через блок try-catch.

@@ -1,4 +1,4 @@
-package javarush.chickenfactory;
+package javarush.complextask.chickenfactory;
 
 import java.util.ArrayList;
 

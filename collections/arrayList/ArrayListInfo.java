@@ -1,6 +1,6 @@
 package javarush.collections.arrayList;
 
-/*
+/**
 
     Рассматриваем работу класса ArrayList.
 
