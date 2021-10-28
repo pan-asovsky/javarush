@@ -7,8 +7,8 @@ public class GreatestCommonDivisor {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-        int first = sc.nextInt();
-        int second = sc.nextInt();
+        double first = sc.nextDouble();
+        double second = sc.nextDouble();
         sc.close();
 
         System.out.printf("Наибольший общий делитель чисел %s и %s равен %s%n",
@@ -16,7 +16,7 @@ public class GreatestCommonDivisor {
 
     }
 
-    public static int findGreatestCommonDivisor(int first, int second) {
+    public static double findGreatestCommonDivisor(double first, double second) {
 
         while (first != second) {
             if (first > second) {
