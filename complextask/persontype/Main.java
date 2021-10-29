@@ -8,7 +8,6 @@ public class Main {
     public static void main(String[] args) throws Exception {
 
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-
         Person person = null;
         String key;
 

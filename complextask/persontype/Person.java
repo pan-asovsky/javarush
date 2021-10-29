@@ -25,5 +25,4 @@ public interface Person {
             System.out.println("It's a wonderful life!");
         }
     }
-
 }
